@@ -1,0 +1,1 @@
+The data for this analysis comes from 'Medical Cost Personal Datasets'(obtained from Kaggle and added to this repository). Here, I am interested in finding any correlation of medical charges with features listed in the dataset and building a predictive model for the expenses.
